@@ -11,9 +11,12 @@
 ```shell
 $ gpg --full-generate-key
 ```
-Choose kind of key RSA
+Choose the kind of key RSA
+
 Choose key size 4096
+
 Define how long the key should be valid
+
 Define name and email of your git account
 
 
